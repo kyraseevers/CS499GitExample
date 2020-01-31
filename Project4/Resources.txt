@@ -1,0 +1,11 @@
+Our resource files:
+https://www.w3schools.com/html/html_comments.asp
+https://www.w3schools.com/html/html_forms.asp
+https://www.w3schools.com/tags/att_select_form.asp
+http://php.net/manual/en/function.file-get-contents.php
+https://stackoverflow.com/questions/4035742/parsing-json-object-in-php-using-json-decode
+http://php.net/manual/en/control-structures.foreach.php
+https://stackoverflow.com/questions/18140270/how-to-write-html-code-inside-php
+http://php.net/manual/en/control-structures.elseif.php
+https://stackoverflow.com/questions/24343468/to-write-php-variable-in-html-option-tag
+

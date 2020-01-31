@@ -1,0 +1,15 @@
+Here is our plan of attack:
+HTML
+Five Fields
+
+
+GET
+Verify/Validate Categories
+Determine file to search
+Read JSON entries from file
+Decode JSON entries to objects
+Produce HTML report with comments listed at top of report
+Output all key/value pairs
+If there is a match, bold whole work
+Produce sum or avg
+
